@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20&fontSize=90&desc=To%20My%20Github&descAlignY=70)
 
 <div align='center'>
-<h3> ♠️ Hungry Developer</h3>
+<h3> ♠️ Ernest Cooper</h3>
 </div>
 
 <div align='center'><p>Hi, My name is Jeong Hun Nam, I'm eager to be a full-stack developer </p> 
@@ -14,7 +14,7 @@ Organizing the contents of study(Korean)
 https://pro-train.tistory.com/
 
 <h3> 🃏 Contact 🃏 </h3>
-📧 Email : njh3421@gmail.com
+📧 Email : njh3421@gmail.com | surtrcode@gmail.com
 </div>
 
 <div align='center'>
