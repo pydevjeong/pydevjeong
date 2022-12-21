@@ -43,7 +43,7 @@ https://pro-train.tistory.com/
 
 ***
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pydevjeong&count_private=true&show_icons=true&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pydevjeong&layout=compact)](https://github.com/pydevjeong/github-readme-stats)
 
 </div>
 
