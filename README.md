@@ -39,7 +39,7 @@ https://pro-train.tistory.com/
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
 
-[![Pydevjeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pydevjeong)](https://github.com/anuraghazra/github-readme-stats)
+[![Pydevjeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ydevjeong)](https://github.com/anuraghazra/github-readme-stats)
 
 ***
 
